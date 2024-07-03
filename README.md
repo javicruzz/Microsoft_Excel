@@ -14,3 +14,6 @@ Transformar y visualizar los datos para la correcta realizacion y analisis a fut
    - Se cree que el personal esta teniendo un bajo rendimiento debido a la alta competencia en el mercado.
      
 ![column-chart-example](https://github.com/javicruzz/Microsoft_Excel/assets/174209143/acc77811-256e-4fa5-bba9-ff2a88a51e50)
+
+### **Codigo utilizado en el analisis**
+``` SELECT * FROM table ```
