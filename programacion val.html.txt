@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let baseMayor=parseFloat(prompt("ingresa un valor"));
+        let baseMenor=parseFloat(prompt("ingresa un valor"));
+        let altura=parseFloat(prompt("ingresa el valor de la altura"));
+        let area=((baseMayor+baseMenor)/2*altura);
+        console.log("el area es: "+area);
+    </script>
+</body>
+</html>
